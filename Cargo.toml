@@ -1,0 +1,6 @@
+[package]
+name = "sigmaos_node_js_binary"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
