@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-Node.js-Binary"
 tier = 3
-description = "Node.js v20/v22 runtime distribution packager and V8 engine execution container"
+description = "Node.js binary distribution manager"
 contracts = ['nodejs-dist-binary', 'npm-shim', 'v8-runtime-environment']
 upstream_inspirations = ['https://github.com/linuxmint/distributions']
